@@ -6,7 +6,8 @@
 ### 访问我的主页
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/tyza66)
-[![GitHub](https://img.shields.io/badge/Gitee-red?logo=gitee)](https://gitee.com/shun152)
+[![Gitee](https://img.shields.io/badge/Gitee-red?logo=gitee)](https://gitee.com/shun152)
+[![QQ空间](https://img.shields.io/badge/QQ%E7%A9%BA%E9%97%B4-yellow?logo=qzone)](https://user.qzone.qq.com/1520600496/)
 
 ### 联系我
 

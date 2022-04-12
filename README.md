@@ -3,7 +3,9 @@
  没错，这些都是我。  
 ![tyza66's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyza66&theme=dark&show_icons=true)
 
-### 访问我的其他主页
+### 访问我的主页
+
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/tyza66)
 
 ### 联系我
 

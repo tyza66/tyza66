@@ -9,7 +9,7 @@
  最近电脑的硬盘都要满了，重做一下系统，借此机会，想把电脑上面的一些项目存一下，能开源的就开源一下吧~  
  欢迎大家下载使用我的开源项目！（记得标准出处）  
  可能有些地方做的不太好，欢迎大家提出宝贵建议！  
- 新人报到~求关注一波~
+ 新人报到\~求关注一波~
  
 ### 我的数据
 ![tyza66's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyza66&theme=dark&show_icons=true)

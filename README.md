@@ -1,5 +1,5 @@
 ### 你好,欢迎来到我的Github主页 👋
- 我常用的id:shun,shun152,shun1520600496,tyza,tyza66,洮羱芝闇。😄  
+ 我常用的id:shun,shun152,shun1520600496,tyza,tyza66,洮羱芝闇，孙达明。😄  
  没错，这些都是我。😎  
  你是否在某些领域见过或使用过我的作品呢？😏  
  我制做过一些实用小工具，平台包括Android，IOS，Windows。还做过一些游戏，做过一些接单。😊  
@@ -11,10 +11,14 @@
  涉及的领域：前端，后端，数据库，算法，游戏，硬件开发...😋  
  欢迎大家下载使用我的开源项目！（记得标准出处）  ❤️  
  可能有些地方做的不太好，欢迎大家提出宝贵建议！😊  
- 新人报到\~求关注一波~💗
+ 新人报到\~求关注一波\~💗  
  
 ### 我的数据
 ![tyza66's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyza66&theme=dark&show_icons=true)
+
+### 支持我
+
+你可以在[赞助我](https://github.com/tyza66/SponsorMe)中赞助我。
 
 ### 访问我的主页
 

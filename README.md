@@ -6,6 +6,7 @@
 ### 访问我的主页
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/tyza66)
+[![GitHub](https://img.shields.io/badge/Gitee-red?logo=gitee)](https://gitee.com/shun152)
 
 ### 联系我
 

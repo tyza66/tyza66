@@ -25,6 +25,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/tyza66)
 [![Gitee](https://img.shields.io/badge/Gitee-red?logo=gitee)](https://gitee.com/shun152)
 [![QQ空间](https://img.shields.io/badge/QQ%E7%A9%BA%E9%97%B4-yellow?logo=qzone)](https://user.qzone.qq.com/1520600496/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/tyza666)
 
 ### 联系我
 

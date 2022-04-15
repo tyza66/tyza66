@@ -37,4 +37,5 @@
 ![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-tyza66-green)
 ![Outlook](https://img.shields.io/badge/Outlook-shun__outlook.com-blue)
 ![163邮箱](https://img.shields.io/badge/163%E9%82%AE%E7%AE%B1-qq1520600496%40163.com-red)
+![渤海大学企业邮箱](https://img.shields.io/badge/%E6%B8%A4%E6%B5%B7%E5%A4%A7%E5%AD%A6%E4%BC%81%E4%B8%9A%E9%82%AE%E7%AE%B1-20012349@qymail.bhu.edu.cn-blue)
 

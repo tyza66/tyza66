@@ -15,7 +15,6 @@
  
 ### 我的数据
 ![tyza66's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyza66&theme=dark&show_icons=true)  
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tyza66&layout=compact)
 
 ### 支持我
 

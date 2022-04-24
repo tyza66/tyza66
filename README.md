@@ -29,6 +29,7 @@
 [![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-orange)](https://www.jianshu.com/u/1f207eab0829)
 [![博客园](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-blue)](https://www.cnblogs.com/tyza66/)
 [![LOFTER(乐乎)](https://img.shields.io/badge/LOFTER(%E4%B9%90%E4%B9%8E)-grey)](https://shun152.lofter.com/)
+[![www.tyza66.com](https://img.shields.io/badge/www.tyza66.com-grey)](http://www.tyza66.com/)
 
 ### 联系我
 

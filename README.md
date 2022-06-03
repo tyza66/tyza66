@@ -11,13 +11,24 @@
  欢迎大家下载使用我的开源项目！（记得标明出处）  ❤️  
  可能有些地方做的不太好，欢迎大家提出宝贵建议！😊  
  ✨Star！✨Star！✨Star！  
- 
+
+### 开源仓具须知
+ 我不会把任何商业化，有协议限定，托管，已说明不可开源的代做的项目等任何涉及雇佣或商业机密等信息的代码或文件暴露，开源仓库的内容除既定框架或依赖外均属于个人作品（可开源）或个人学习笔记。  
+ 代码仓库不会包含任何违法信息，不良信息。  
+ 接受大众的检举，监督，也感谢大家能够提醒我。
+
 ### 我的数据
 ![tyza66's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyza66&theme=dark&show_icons=true)  
 
 ### 支持我
 
 你可以在[赞助我](https://github.com/tyza66/SponsorMe)中赞助我。
+
+### 雇佣我
+[![程序员客栈](https://img.shields.io/badge/程序员客栈-blue)]([https://weibo.com/u/7483051117](https://jishuin.proginn.com/u/616854))
+
+目前接单范围为：前端-前端  
+如果您需要一份我的简历，可以通过平台私聊或下列方式联系我或查看平台展示的简历~  
 
 ### 访问我的主页
 
@@ -28,6 +39,7 @@
 [![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-orange)](https://www.jianshu.com/u/1f207eab0829)
 [![博客园](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-blue)](https://www.cnblogs.com/tyza66/)
 [![LOFTER(乐乎)](https://img.shields.io/badge/LOFTER(%E4%B9%90%E4%B9%8E)-grey)](https://shun152.lofter.com/)
+[![程序员客栈](https://img.shields.io/badge/程序员客栈-blue)]([https://weibo.com/u/7483051117](https://jishuin.proginn.com/u/616854))
 [![www.tyza66.com](https://img.shields.io/badge/www.tyza66.com-grey)](http://www.tyza66.com/)
 [![微博](https://img.shields.io/badge/微博-red)](https://weibo.com/u/7483051117)
 
@@ -41,4 +53,5 @@
 ![渤海大学企业邮箱](https://img.shields.io/badge/%E6%B8%A4%E6%B5%B7%E5%A4%A7%E5%AD%A6%E4%BC%81%E4%B8%9A%E9%82%AE%E7%AE%B1-20012349@qymail.bhu.edu.cn-blue)
 ![Telegram](https://img.shields.io/badge/Telegram-@tyza66-blue)
 ![微博](https://img.shields.io/badge/微博-@洮羱芝闇-red)
+![程序员客栈](https://img.shields.io/badge/程序员客栈-616854-blue)
 

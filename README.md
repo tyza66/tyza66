@@ -42,6 +42,8 @@
 [![程序员客栈](https://img.shields.io/badge/程序员客栈-blue)](https://jishuin.proginn.com/u/616854)
 [![www.tyza66.com](https://img.shields.io/badge/www.tyza66.com-grey)](http://www.tyza66.com/)
 [![微博](https://img.shields.io/badge/微博-red)](https://weibo.com/u/7483051117)
+[![bilibili](https://img.shields.io/badge/Bilibili-pink)](https://space.bilibili.com/70882217)
+[![bilibili直播间](https://img.shields.io/badge/Bilibili直播间-pink)](https://live.bilibili.com/22569456?broadcast_type=0&is_room_feed=1&spm_id_from=333.999.0.0)
 
 ### 联系我
 
@@ -54,4 +56,5 @@
 ![Telegram](https://img.shields.io/badge/Telegram-@tyza66-blue)
 ![微博](https://img.shields.io/badge/微博-@洮羱芝闇-red)
 ![程序员客栈](https://img.shields.io/badge/程序员客栈-616854-blue)
-
+![Bilibili](https://img.shields.io/badge/Bilibili-洮羱芝闇-pink)
+![Bilibili直播号](https://img.shields.io/badge/Bilibili直播号-洮羱芝闇bi-pink)

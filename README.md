@@ -13,12 +13,18 @@
  ✨Star！✨Star！✨Star！  
 
 ### 开源仓具须知
+
  不会把任何商业化，有协议限定，托管，已说明不可开源的代做的项目等任何涉及雇佣或商业机密等信息的代码或文件暴露。  
  代码仓库不会包含任何违法信息，不良信息。  
  接受大众的检举，监督，也感谢大家能够提醒我。
 
 ### 我的数据
+
 ![tyza66's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyza66&theme=dark&show_icons=true)  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tyza66/count.svg" />
+</p>
 
 ### 支持我
 
@@ -58,10 +64,3 @@
 ![程序员客栈](https://img.shields.io/badge/程序员客栈-616854-blue)
 ![Bilibili](https://img.shields.io/badge/Bilibili-洮羱芝闇-pink)
 ![Bilibili直播/视频号](https://img.shields.io/badge/Bilibili直播号-洮羱芝闇bi-pink)
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tyza66/count.svg" />
-</p>

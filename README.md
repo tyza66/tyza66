@@ -1,5 +1,9 @@
+<div align="center">
+  <font><h3><i>因为创造，所以存在。</i></h3><font>
+</div>
+ 
 ### 你好,欢迎来到我的Github主页 👋
- 我常用的id:shun,shun152,shun1520600496,tyza,tyza66,洮羱芝闇,孙达明,Sun Daming,Daming Sun。😄  
+ 我常用的id:shun,shun152,shun1520600496,tyza,tyza66,Sun Daming,Daming Sun,洮羱芝闇,孙达明。😄  
  没错，这些都是我。😎  
  你是否在某些领域见过或使用过我的作品呢？😏  
  我制做过一些实用小工具，平台包括Android，IOS，Windows。还做过一些游戏，做过一些接单。😊  
@@ -19,18 +23,15 @@
  接受大众的检举，监督，也感谢大家能够提醒我。
 
 ### 我的数据
-
-![tyza66's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyza66&theme=dark&show_icons=true)  
-
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=tyza66&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyza66&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+    
 ### 支持我
 
-你可以在[赞助我](https://github.com/tyza66/SponsorMe)中赞助我。
+你可以在[赞助我](https://github.com/tyza66/SponsorMe)中帮助支持我。
 
 ### 雇佣我
-[![程序员客栈](https://img.shields.io/badge/程序员客栈-blue)](https://jishuin.proginn.com/u/616854)
-
-目前接单范围为：前端-前端  
-如果您需要一份我的简历，可以通过平台私聊或下列联系方式联系我或查看平台展示的简历~  
+[![程序员客栈:孙达明](https://img.shields.io/badge/程序员客栈:孙达明-blue)](https://jishuin.proginn.com/u/616854)
+[![BOSS直聘:孙达明](https://img.shields.io/badge/BOSS直聘:孙达明-aquamarine)](https://www.zhipin.com/)
 
 ### 访问我的主页
 

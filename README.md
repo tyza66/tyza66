@@ -9,15 +9,7 @@
   -  😎 没错，这些都是我。  
     
   -  😏 你是否在某些领域见过或使用过我的作品呢？  
-    
-  -  😊 我制做过一些实用小工具，平台包括Android，IOS，Windows。还做过一些游戏，做过一些接单。  
-    
-  -  😃 反正就是碰巧看见我能做出来的东西通常我就给做出来了，学无止境嘛。  
-    
-  -  😱 真是太可惜了，我没有早点注册Github这个平台，从前做的很多东西工程目录都不在了。  
-    
-  -  😂 之前和现在做的一些东西，能开源的就开源一下吧~   
-    
+
   -  ✨ 我的代码仓库会用于：开源项目，文件托管，图床，网站托管，存作业文件夹，存工程文件,教学文件夹...  
     
   -  😋 涉及的领域：前端，后端，全栈，数据库，算法，游戏，硬件开发，实用工具... 
@@ -30,9 +22,9 @@
 
 ### 开源仓具须知
 
- 不会把任何商业化，有协议限定，托管，已说明不可开源的代做的项目等任何涉及雇佣或商业机密等信息的代码或文件暴露。  
- 代码仓库不会包含任何违法信息，不良信息。  
- 接受大众的检举，监督，也感谢大家能够提醒我。
+  1. 不会把任何商业化，有协议限定，托管，已说明不可开源的代做的项目等任何涉及雇佣或商业机密等信息的代码或文件暴露。  
+  2. 代码仓库不会包含任何违法信息，不良信息。  
+  3. 接受大众的检举，监督，也感谢大家能够提醒我。
 
 ### 我的数据
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=tyza66&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyza66&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />

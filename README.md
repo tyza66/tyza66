@@ -31,7 +31,7 @@
 
 ### 个人资料奖杯
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tyza66&theme=buddhism&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tyza66&theme=gruvbox&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
     
 ### 支持我
 

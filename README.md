@@ -55,7 +55,7 @@
 [![Batchfile](https://img.shields.io/badge/Batchfile-black?style=for-the-badge&logo=batchfile)](https://github.com/tyza66)
 [![BASIC](https://img.shields.io/badge/BASIC-black?style=for-the-badge&logo=basic)](https://github.com/tyza66)
 [![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)](https://github.com/tyza66)
-[![NScripter](https://img.shields.io/badge/NScripter-black?style=for-the-badge&logo=NScripter)](https://github.com/tyza66)
+[![ONScripter](https://img.shields.io/badge/ONScripter-black?style=for-the-badge&logo=ONScripter)](https://github.com/tyza66)
     
 ### 支持我
 

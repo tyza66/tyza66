@@ -65,7 +65,7 @@
 ### 雇佣我
 [![程序员客栈:孙达明](https://img.shields.io/badge/程序员客栈:孙达明-blue)](https://jishuin.proginn.com/u/616854)
 [![BOSS直聘:孙达明](https://img.shields.io/badge/BOSS直聘:孙达明-aquamarine)](https://www.zhipin.com/)
-    <p>你也可以在我的仓库中查看我的[简历](https://github.com/tyza66/Resume)、[资格证书](https://github.com/tyza66/Resume)、[获奖](https://github.com/tyza66/Resume)等。/p>
+    <p>你也可以在我的仓库中查看我的[简历](https://github.com/tyza66/Resume)、[资格证书](https://github.com/tyza66/Resume)、[获奖](https://github.com/tyza66/Resume)等。</p>
     
 ### 访问我的主页
 

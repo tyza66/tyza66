@@ -56,6 +56,7 @@
 [![BASIC](https://img.shields.io/badge/BASIC-black?style=for-the-badge&logo=basic)](https://github.com/tyza66)
 [![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)](https://github.com/tyza66)
 [![ONScripter](https://img.shields.io/badge/ONScripter-black?style=for-the-badge&logo=ONScripter)](https://github.com/tyza66)
+[![结绳](https://img.shields.io/badge/结绳-black?style=for-the-badge&logo=jiesheng)](https://github.com/tyza66)
     
 ### 支持我
 

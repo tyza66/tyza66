@@ -99,6 +99,6 @@
 ![Bilibili直播/视频号](https://img.shields.io/badge/Bilibili直播号-洮羱芝闇bi-pink?logo=bilibili-live)
 
 <p align="center"> 
-  主页访问量<br>
+  <b>主页访问量</b><br>
   <img src="https://profile-counter.glitch.me/tyza66/count.svg" />
 </p>

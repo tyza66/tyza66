@@ -85,6 +85,7 @@
 [![bilibili直播间](https://img.shields.io/badge/Bilibili直播间-pink?logo=bilibili-live)](https://live.bilibili.com/22569456?broadcast_type=0&is_room_feed=1&spm_id_from=333.999.0.0)
 [![稀土掘金](https://img.shields.io/badge/稀土掘金-yellow?logo=juejin)](https://juejin.cn/user/4416095108995575)
 [![开源中国](https://img.shields.io/badge/开源中国-green?logo=oschina)](https://my.oschina.net/u/5818773)
+[![Project1](https://img.shields.io/badge/Project1-blue?)](https://rpg.blue/home.php?mod=space&uid=2691881)
 
 ### 联系我
 
@@ -99,6 +100,7 @@
 ![程序员客栈](https://img.shields.io/badge/程序员客栈-616854-blue?logo=proginn)
 ![Bilibili](https://img.shields.io/badge/Bilibili-洮羱芝闇-pink?logo=bilibili)
 ![Bilibili直播/视频号](https://img.shields.io/badge/Bilibili直播号-洮羱芝闇bi-pink?logo=bilibili-live)
+![Project1](https://img.shields.io/badge/Project1-shun1520-blue?)
 
 <p align="center"> 
   <b>主页访问量</b><br>

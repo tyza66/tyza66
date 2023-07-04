@@ -6,7 +6,7 @@
     
   -  ✨ 编码从2015至今  
     
-  -  😄 我在各处使用过的ID:shun、shun152、shun1520600496、tyza、tyza66、Sun Daming、Daming Sun、洮羱芝闇、孙达明。  
+  -  😄 我在各处使用过的ID：shun、shun152、shun1520600496、tyza、tyza66、Sun Daming、Daming Sun、洮羱芝闇、孙达明。  
     
   -  😎 没错，这些都是我。  
     

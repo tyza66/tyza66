@@ -89,6 +89,7 @@
 
 ### 联系我
 
+![微信公众号](https://img.shields.io/badge/微信公众号-cxysdm96-green?logo=wechat)
 ![QQ](https://img.shields.io/badge/QQ-1520600496-blue?logo=tencent-qq)
 ![QQ邮箱](https://img.shields.io/badge/QQ%E9%82%AE%E7%AE%B1-1520600496%40qq.com-red?logo=tencent-qq)
 ![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-tyza66-green?logo=wechat)

@@ -101,6 +101,6 @@
 ![微博](https://img.shields.io/badge/微博-@洮羱芝闇-red?logo=sina-weibo)
 ![程序员客栈](https://img.shields.io/badge/程序员客栈-616854-blue?logo=proginn)
 ![Bilibili](https://img.shields.io/badge/Bilibili-洮羱芝闇-pink?logo=bilibili)
-![Bilibili](https://img.shields.io/badge/Bilibili直播号-洮羱芝闇bi-pink?logo=bilibili-live)
+![Bilibili](https://img.shields.io/badge/Bilibili直播号-程序员孙达明-pink?logo=bilibili-live)
 ![Project1](https://img.shields.io/badge/Project1-shun1520-blue?)
 

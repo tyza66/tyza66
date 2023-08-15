@@ -59,6 +59,7 @@
 [![结绳](https://img.shields.io/badge/结绳-black?style=for-the-badge&logo=jiesheng)](https://github.com/tyza66)
 [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)](https://github.com/tyza66)
 [![lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/tyza66)
+[![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.NET)](https://github.com/tyza66)
     
 ### 支持我
 

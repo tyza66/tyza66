@@ -61,7 +61,7 @@
 [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)](https://github.com/tyza66)
 [![lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/tyza66)
 [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/tyza66)
-[![8086Assembly](https://img.shields.io/badge/8086Assembly-black?style=for-the-badge&logo=assembly)](https://github.com/tyza66)
+[![8086Assembly](https://img.shields.io/badge/8086%20Assembly-black?style=for-the-badge&logo=assembly)](https://github.com/tyza66)
     
 ### 支持我
 

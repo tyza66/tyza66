@@ -12,21 +12,22 @@
     
   -  😏 你是否在某些领域见过或使用过我的作品呢？  
 
-  -  ✨ 我的代码仓库会用于：开源项目、文件托管、图床、网站托管、存作业文件夹、存工程文件、存教学文件夹、存学习笔记...  
+  -  ✨ 我的代码仓库会用于：开源项目、文件托管、图床、网站托管、存作业文件夹、存工程文件、存教学文件夹、存学习笔记、更新期刊...  
     
-  -  😋 涉及的领域：前端、后端、全栈、数据库、算法、游戏、硬件开发、实用工具、大数据、物联网、人工智能... 
+  -  😋 涉及的领域：底层、前端、后端、全栈、数据库、算法、游戏、硬件开发、实用工具、大数据、物联网、人工智能... 
     
   -  ❤️ 欢迎大家下载使用我的开源项目！（记得标明出处）    
     
   -  😊 可能有些地方做的不太好，欢迎大家提出宝贵建议！  
     
-  - ✨Star！✨Star！✨Star！  
+  - ✨如果您觉得有用，不妨给我点一个小星星，这很重要！  
 
 ### 开源仓具须知
 
   1. 不会把任何商业化，有协议限定，托管，已说明不可泄露的代做的项目等任何涉及雇佣或商业机密等信息的代码或文件暴露。  
   2. 代码仓库不会包含任何违法信息，不良信息。  
   3. 接受大众的检举，监督，也感谢大家能够提醒我。
+  4. 各种仓库有点乱，还请见谅。（有些仓库或项目可能并不完整，有开发意义和兴趣会继续更新）
 
 ### 我的数据
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=tyza66&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyza66&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
@@ -60,6 +61,7 @@
 [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)](https://github.com/tyza66)
 [![lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/tyza66)
 [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/tyza66)
+[![8086Assembly](https://img.shields.io/badge/8086Assembly-black?style=for-the-badge&logo=assembly)](https://github.com/tyza66)
     
 ### 支持我
 

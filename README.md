@@ -14,7 +14,7 @@
 
   -  ✨ 我的代码仓库会用于：开源项目、文件托管、图床、网站托管、存作业文件夹、存工程文件、存教学文件夹、存学习笔记、更新期刊...  
     
-  -  😋 涉及的领域：底层、前端、后端、全栈、数据库、算法、游戏、硬件开发、实用工具、大数据、物联网、人工智能、网络安全... 
+  -  😋 涉及的领域：底层、前端、后端、全栈、数据库、算法、游戏、硬件开发、实用工具、大数据、物联网、人工智能、计算机及网络安全... 
     
   -  ❤️ 欢迎大家下载使用我的开源项目！（记得标明出处）    
     
@@ -89,11 +89,8 @@
 
 ![微信公众号](https://img.shields.io/badge/微信公众号-cxysdm96-green?logo=wechat)
 ![QQ](https://img.shields.io/badge/QQ-1520600496-blue?logo=tencent-qq)
-![QQ邮箱](https://img.shields.io/badge/QQ%E9%82%AE%E7%AE%B1-1520600496%40qq.com-red?logo=tencent-qq)
 ![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-tyza66-green?logo=wechat)
 ![Outlook](https://img.shields.io/badge/Outlook-shun__@outlook.com-orange?logo=microsoft-outlook)
-![163邮箱](https://img.shields.io/badge/163%E9%82%AE%E7%AE%B1-qq1520600496%40163.com-yellow?logo=163-mail)
-![163邮箱](https://img.shields.io/badge/163%E9%82%AE%E7%AE%B1-shun_152%40163.com-yellow?logo=163-mail)
 ![渤海大学企业邮箱](https://img.shields.io/badge/%E6%B8%A4%E6%B5%B7%E5%A4%A7%E5%AD%A6%E4%BC%81%E4%B8%9A%E9%82%AE%E7%AE%B1-20012349@qymail.bhu.edu.cn-purple?logo=bhu)
 ![微博](https://img.shields.io/badge/微博-@孙达明_tyza66-red?logo=sina-weibo)
 ![程序员客栈](https://img.shields.io/badge/程序员客栈-616854-blue?logo=proginn)

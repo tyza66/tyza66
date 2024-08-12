@@ -97,4 +97,5 @@
 ![Bilibili](https://img.shields.io/badge/Bilibili-洮羱芝闇-pink?logo=bilibili)
 ![Bilibili](https://img.shields.io/badge/Bilibili直播号-孙达明_tyza66-pink?logo=bilibili-live)
 ![Project1](https://img.shields.io/badge/Project1-shun1520-blue?)
+![IRC](https://img.shields.io/badge/IRC-tyza66-pink?)
 

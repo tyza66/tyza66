@@ -62,7 +62,7 @@
 [![lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/tyza66)
 [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/tyza66)
 [![8086Assembly](https://img.shields.io/badge/8086%20Assembly-black?style=for-the-badge&logo=assembly)](https://github.com/tyza66)
-[![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=assembly)](https://github.com/tyza66)
+[![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=ethereum)](https://github.com/tyza66)
     
 ### 支持我
 

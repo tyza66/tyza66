@@ -4,7 +4,7 @@
  
 ### 你好,欢迎来到我的Github主页 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
     
-  -  ✨ 编码从2015至今  
+  -  ✨ 编码从2015至今。  
     
   -  😄 我在各处使用过的ID：shun、shun152、shun1520600496、tyza、tyza66、Sun Daming、Daming Sun、洮羱芝闇、孙达明。  
     

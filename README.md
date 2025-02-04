@@ -54,6 +54,7 @@
 [![易语言](https://img.shields.io/badge/易语言-black?style=for-the-badge&logo=e)](https://github.com/tyza66)
 [![iApp裕3 iyu](https://img.shields.io/badge/iApp%E8%A3%953%20iyu-black?style=for-the-badge&logo=iapp)](https://github.com/tyza66)
 [![Batchfile](https://img.shields.io/badge/Batchfile-black?style=for-the-badge&logo=batchfile)](https://github.com/tyza66)
+[![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=shell)](https://github.com/tyza66)
 [![BASIC](https://img.shields.io/badge/BASIC-black?style=for-the-badge&logo=basic)](https://github.com/tyza66)
 [![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)](https://github.com/tyza66)
 [![ONScripter](https://img.shields.io/badge/ONScripter-black?style=for-the-badge&logo=ONScripter)](https://github.com/tyza66)

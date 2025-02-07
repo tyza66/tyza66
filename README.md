@@ -39,6 +39,7 @@
 ### 我使用的语言
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/tyza66)
 [![Scala](https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala)](https://github.com/tyza66)
+[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/tyza66)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/tyza66)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/tyza66)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/tyza66)

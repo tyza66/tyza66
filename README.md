@@ -92,7 +92,6 @@
 
 ### 联系我
 
-![微信公众号](https://img.shields.io/badge/微信公众号-cxysdm96-green?logo=wechat)
 ![QQ](https://img.shields.io/badge/QQ-1520600496-blue?logo=tencent-qq)
 ![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-tyza66-green?logo=wechat)
 ![Outlook](https://img.shields.io/badge/Outlook-shun__@outlook.com-orange?logo=microsoft-outlook)

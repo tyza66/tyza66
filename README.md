@@ -96,7 +96,7 @@
 ![QQ](https://img.shields.io/badge/QQ-1520600496-blue?logo=tencent-qq)
 ![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-tyza66-green?logo=wechat)
 ![Outlook](https://img.shields.io/badge/Outlook-shun__@outlook.com-orange?logo=microsoft-outlook)
-![微博](https://img.shields.io/badge/微博-@孙达明_tyza66-red?logo=sina-weibo)
+![微博](https://img.shields.io/badge/微博-@孙达明__tyza66-red?logo=sina-weibo)
 ![程序员客栈](https://img.shields.io/badge/程序员客栈-616854-blue?logo=proginn)
 ![Bilibili](https://img.shields.io/badge/Bilibili-洮羱芝闇-pink?logo=bilibili)
 ![Bilibili](https://img.shields.io/badge/Bilibili直播号-孙达明_tyza66-pink?logo=bilibili-live)

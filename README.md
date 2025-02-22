@@ -67,6 +67,7 @@
 [![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=ethereum)](https://github.com/tyza66)
 [![GameMaker Language](https://img.shields.io/badge/GML-black?style=for-the-badge&logo=gamemaker)](https://github.com/tyza66)
 [![GDScript](https://img.shields.io/badge/GDScript-black?style=for-the-badge&logo=godotengine)](https://github.com/tyza66)
+[![QML](https://img.shields.io/badge/QML-black?style=for-the-badge&logo=qt)](https://github.com/tyza66)
     
 ### 支持我
 

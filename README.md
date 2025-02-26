@@ -103,3 +103,6 @@
 ![Project1](https://img.shields.io/badge/Project1-shun1520-blue?)
 ![IRC](https://img.shields.io/badge/IRC-tyza66-pink?)
 
+<div align="center">
+  <font><i>世事多出入，何日逍遥游？</i><font>
+</div>

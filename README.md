@@ -29,6 +29,11 @@
   3. 接受大众的检举，监督，也感谢大家能够提醒我。
   4. 各种仓库有点乱，还请见谅。（有些仓库或项目可能并不完整，有开发意义和兴趣会继续更新）
 
+### 目前的理念
+  - 创作的终极思想是Think and dev...
+  - AI暂时并不能完全替代人，不信你试试
+  - 永远不要只依赖任何高级的东西，会出大问题
+
 ### 我的数据
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=tyza66&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyza66&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 

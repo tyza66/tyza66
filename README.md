@@ -76,6 +76,7 @@
 [![ArkTS](https://img.shields.io/badge/ArkTS-black?style=for-the-badge&logo=ArkTS)](https://github.com/tyza66)
 [![RISC-V Assembly](https://img.shields.io/badge/RISC--V%20Assembly-black?style=for-the-badge&logo=riscv)](https://github.com/tyza66)
 [![Verilog](https://img.shields.io/badge/Verilog-black?style=for-the-badge&logo=verilog&logoColor=white)](https://github.com/tyza66)
+[![Verilog](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R&logoColor=white)](https://github.com/tyza66)
     
 ### 支持我
 

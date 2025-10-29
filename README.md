@@ -76,7 +76,7 @@
 [![ArkTS](https://img.shields.io/badge/ArkTS-black?style=for-the-badge&logo=ArkTS)](https://github.com/tyza66)
 [![RISC-V Assembly](https://img.shields.io/badge/RISC--V%20Assembly-black?style=for-the-badge&logo=riscv)](https://github.com/tyza66)
 [![Verilog](https://img.shields.io/badge/Verilog-black?style=for-the-badge&logo=verilog&logoColor=white)](https://github.com/tyza66)
-[![Verilog](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R&logoColor=white)](https://github.com/tyza66)
+[![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R&logoColor=white)](https://github.com/tyza66)
     
 ### 支持我
 
@@ -86,7 +86,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/tyza66)
 [![Gitee](https://img.shields.io/badge/Gitee-red?logo=gitee)](https://gitee.com/tyza66)
-[![GitCode](https://gitcode.com/tyza66)](https://gitcode.com/tyza66)
+[![GitCode](https://img.shields.io/badge/GitCode-red?logo=gitcode)](https://gitcode.com/tyza66)
 [![tyza66.top](https://img.shields.io/badge/tyza66.top-gray?)](https://tyza66.top/)
 [![QQ空间](https://img.shields.io/badge/QQ%E7%A9%BA%E9%97%B4-yellow?logo=qzone)](https://user.qzone.qq.com/1520600496/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/tyza666)

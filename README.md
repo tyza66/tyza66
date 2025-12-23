@@ -37,10 +37,6 @@
 ### 我的数据
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=tyza66&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyza66&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-### 个人资料奖杯
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tyza66&theme=gruvbox&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-    
 ### 我使用的语言
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/tyza66)
 [![Scala](https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala)](https://github.com/tyza66)

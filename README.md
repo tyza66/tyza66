@@ -1,4 +1,4 @@
-<img width="3000" height="2304" alt="image" src="https://github.com/user-attachments/assets/32e6ba1c-b88a-40b8-85f1-df159a343664" /><div align="center">
+<div align="center">
   <font><h3><i>因为创造，所以存在。</i></h3><font>
 </div>
  

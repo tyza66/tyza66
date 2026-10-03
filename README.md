@@ -23,8 +23,9 @@
   - ✨如果您觉得有用，不妨给我点一个小星星，这很重要！  
 
 ### 我的数据
-[![tyza66's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyza66&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&card_width=480)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyza66&layout=compact&theme=tokyonight&hide_border=true&locale=cn&card_width=480)](https://github.com/anuraghazra/github-readme-stats)
+| <img height="210" src="https://github-readme-stats.vercel.app/api?username=tyza66&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&card_width=480"> | <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyza66&layout=compact&theme=tokyonight&hide_border=true&locale=cn&card_width=480&langs_count=8"> |
+| :---: | :---: |
+
 
 ### 开源仓具须知
 

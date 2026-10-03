@@ -22,6 +22,10 @@
     
   - ✨如果您觉得有用，不妨给我点一个小星星，这很重要！  
 
+### 我的数据
+[![tyza66's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyza66&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyza66&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 开源仓具须知
 
   1. 不会把任何商业化，有协议限定，托管，已说明不可泄露的代做的项目等任何涉及雇佣或商业机密等信息的代码或文件暴露。  

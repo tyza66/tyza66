@@ -23,8 +23,7 @@
   - ✨如果您觉得有用，不妨给我点一个小星星，这很重要！  
 
 ### 我的数据
-| <img height="210" src="https://github-readme-stats.vercel.app/api?username=tyza66&show_icons=true&theme=tokyonight&hide_border=true&locale=cn&card_width=480"> | <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyza66&layout=compact&theme=tokyonight&hide_border=true&locale=cn&card_width=480&langs_count=8"> |
-| :---: | :---: |
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/tyza66?lang=zh)](https://ghfind.com/u/tyza66?ref=badge)
 
 
 ### 开源仓具须知

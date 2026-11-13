@@ -23,7 +23,12 @@
   - ✨如果您觉得有用，不妨给我点一个小星星，这很重要！  
 
 ### 我的数据
-[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/tyza66?lang=zh)](https://ghfind.com/u/tyza66?ref=badge)
+<a href="https://ghfind.com/u/tyza66?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/tyza66?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/tyza66?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
 
 
 ### 开源仓具须知

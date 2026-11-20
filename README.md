@@ -23,12 +23,16 @@
   - ✨如果您觉得有用，不妨给我点一个小星星，这很重要！  
 
 ### 我的数据
-<a href="https://ghfind.com/u/tyza66?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/tyza66?theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/tyza66?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
-  </picture>
-</a>
+<div align="center">
+  <a href="https://ghfind.com/u/tyza66?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/tyza66?theme=dark&lang=zh" />
+      <img src="https://ghfind.com/api/card/mini/tyza66?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="410" align="middle" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api?username=tyza66&show_icons=true&bg_color=000&border_color=000&text_color=fff&title_color=fff&icon_color=000&ring_color=f00" width="410" align="middle" />
+</div>
 
 
 ### 开源仓具须知
